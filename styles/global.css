@@ -14,7 +14,7 @@ html {
   --blue: #3485FF;
   --background: #F6FAFF;
   --overlay: #040911;
-  --icon-details: #A5B0C1;
+  --icons-details: #A5B0C1;
 
   --grey-dark: #4D5E77;
   --grey-blue: #A1B2CD;
@@ -25,6 +25,7 @@ html {
 }
 
 body {
+  display: flex;
   height: 100vh;
   background: var(--background);
 }
@@ -106,5 +107,5 @@ button.outlined,
 }
 
 .content header img {
-  width: 1.6rem;
+  width: 16.7rem;
 }
