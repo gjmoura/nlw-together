@@ -12,4 +12,4 @@ As seguintes ferramentas foram usadas na construção do projeto:
 - [HTML5](https://www.w3schools.com/html/)
 - [Node.js](https://nodejs.org/en/)
 - [CSS](https://www.w3schools.com/css/)
-- [TypeScript](https://www.javascript.com/)
+- [JavaScript](https://www.javascript.com/)
