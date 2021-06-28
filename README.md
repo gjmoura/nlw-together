@@ -23,13 +23,10 @@ $ npm init-db
 $ npm start
 
 ### APP
+![CriarSala](https://user-images.githubusercontent.com/62676354/123648152-19896880-d7ff-11eb-8eb7-106ccb6b0855.png)
+![Home](https://user-images.githubusercontent.com/62676354/123648165-1b532c00-d7ff-11eb-969a-a111dcc6f68d.png)
+![Sala](https://user-images.githubusercontent.com/62676354/123648180-1c845900-d7ff-11eb-8647-09d8faf10ba4.png)
 
-HOME(https://user-images.githubusercontent.com/62676354/123647910-e1822580-d7fe-11eb-8237-a510a7cc2a19.png)
-
-
-Criar sala(https://user-images.githubusercontent.com/62676354/123647934-e7780680-d7fe-11eb-83e1-889cac9a309f.png)
-
-Sala(https://user-images.githubusercontent.com/62676354/123647956-eba42400-d7fe-11eb-98b4-ef23e98ea42d.png)
 
 
 
