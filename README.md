@@ -22,6 +22,23 @@ $ npm init-db
 # Executando a aplicação
 $ npm start
 
+### APP
+
+file:///home/gjmoura/Imagens/NLW%20Together/CriarSala.png![image](https://user-images.githubusercontent.com/62676354/123647910-e1822580-d7fe-11eb-8237-a510a7cc2a19.png)
+
+x-special/nautilus-clipboard
+copy
+file:///home/gjmoura/Imagens/NLW%20Together/Home.png
+![Home](https://user-images.githubusercontent.com/62676354/123647934-e7780680-d7fe-11eb-83e1-889cac9a309f.png)
+
+x-special/nautilus-clipboard
+copy
+file:///home/gjmoura/Imagens/NLW%20Together/Sala.png
+![Sala](https://user-images.githubusercontent.com/62676354/123647956-eba42400-d7fe-11eb-98b4-ef23e98ea42d.png)
+
+
+
+
 ### 🛠 Tecnologias
 
 As seguintes ferramentas foram usadas na construção do projeto:
