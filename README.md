@@ -1,5 +1,5 @@
 # ROQUET.Q
-## Aplicacão para gerenciar perguntas e respostas de um grupo de pessoas. Consiste em uma sala que possuí um código específico e que pessoas podem entrar e fazer perguntas no mural da sala, as perguntas têm opção de marcadas como lida e de excluir caso seja necessário alguns dos casos.
+### Aplicacão para gerenciar perguntas e respostas de um grupo de pessoas. Consiste em uma sala que possuí um código específico e que pessoas podem entrar e fazer perguntas no mural da sala, as perguntas têm opção de marcadas como lida e de excluir caso seja necessário alguns dos casos.
 
 ![Badge](https://img.shields.io/badge/NLW-Rocketseat-%237159c1?style=for-the-badge&logo=ghost)
 
